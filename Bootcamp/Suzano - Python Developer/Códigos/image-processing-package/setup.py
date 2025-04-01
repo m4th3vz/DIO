@@ -14,7 +14,7 @@ setup(
     description="My short description",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/m4th3vz/python/tree/main/Pacotes/image-processing-packagee",
+    url="https://github.com/m4th3vz/DIO/tree/main/Bootcamp/Suzano%20-%20Python%20Developer/C%C3%B3digos/image-processing-package",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',

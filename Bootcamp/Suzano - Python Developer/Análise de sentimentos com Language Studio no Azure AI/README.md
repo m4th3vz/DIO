@@ -12,7 +12,7 @@ Com isso em mente, podemos utilizar a funcionalidade de [Conversão de fala em t
 
 - **Exemplo da conversão de fala em texto em tempo real**
 
-![Imagem de Exemplo da conversão da fala em texto em tempo real](transcricao.png)
+![Imagem de Exemplo da conversão da fala em texto em tempo real](https://raw.githubusercontent.com/m4th3vz/DIO/refs/heads/main/Bootcamp/Suzano%20-%20Python%20Developer/An%C3%A1lise%20de%20sentimentos%20com%20Language%20Studio%20no%20Azure%20AI/Inputs/img/transcricao.png)
 
 ## **2. Analise do texto com Language Studio:**
 
@@ -30,56 +30,62 @@ Neste exercício, utilizei o Language Studio para criar um novo recurso de idiom
 
 - **Exemplo da Análise de sentimentos e opiniões realizada**
 
-**Input:**
-
-![Imagem de Exemplo do texto da Análise de sentimentos e opiniões](textoexemplo-1.png)
-
-**Output:**
-
-![Primeira imagem de Exemplo da Análise de sentimentos e opiniões gerada](Imagem-1.1.png)
-
-![Segunda imagem de Exemplo da Análise de sentimentos e opiniões gerada](Imagem-1.2.png)
-
-![Terceira imagem de Exemplo da Análise de sentimentos e opiniões gerada](Imagem-1.3.png)
+## **Análise do primeiro texto:**
 
 **Input:**
 
-![Imagem de Exemplo do texto da Análise de sentimentos e opiniões](textoexemplo-2.png)
+![Imagem de Exemplo do texto da Análise de sentimentos e opiniões](https://raw.githubusercontent.com/m4th3vz/DIO/refs/heads/main/Bootcamp/Suzano%20-%20Python%20Developer/An%C3%A1lise%20de%20sentimentos%20com%20Language%20Studio%20no%20Azure%20AI/Inputs/img/textoexemplo-1.png)
 
 **Output:**
 
-![Quarta imagem de Exemplo da Análise de sentimentos e opiniões gerada](Imagem-2.1.png)
+![Primeira imagem de Exemplo da Análise de sentimentos e opiniões gerada](https://raw.githubusercontent.com/m4th3vz/DIO/refs/heads/main/Bootcamp/Suzano%20-%20Python%20Developer/An%C3%A1lise%20de%20sentimentos%20com%20Language%20Studio%20no%20Azure%20AI/Inputs/img/Imagem-1.1.png)
 
-![Quinta imagem de Exemplo da Análise de sentimentos e opiniões gerada](Imagem-2.2.png)
+![Segunda imagem de Exemplo da Análise de sentimentos e opiniões gerada](https://raw.githubusercontent.com/m4th3vz/DIO/refs/heads/main/Bootcamp/Suzano%20-%20Python%20Developer/An%C3%A1lise%20de%20sentimentos%20com%20Language%20Studio%20no%20Azure%20AI/Inputs/img/Imagem-1.2.png)
 
-![Sexta imagem de Exemplo da Análise de sentimentos e opiniões gerada](Imagem-2.3.png)
+![Terceira imagem de Exemplo da Análise de sentimentos e opiniões gerada](https://raw.githubusercontent.com/m4th3vz/DIO/refs/heads/main/Bootcamp/Suzano%20-%20Python%20Developer/An%C3%A1lise%20de%20sentimentos%20com%20Language%20Studio%20no%20Azure%20AI/Inputs/img/Imagem-1.3.png)
 
-![Sétima imagem de Exemplo da Análise de sentimentos e opiniões gerada](Imagem-2.4.png)
-
-![Oitava imagem de Exemplo da Análise de sentimentos e opiniões gerada](Imagem-2.5.png)
+## **Análise do segundo texto:**
 
 **Input:**
 
-![Imagem de Exemplo do texto da Análise de sentimentos e opiniões](textoexemplo-3.png)
+![Imagem de Exemplo do texto da Análise de sentimentos e opiniões](https://raw.githubusercontent.com/m4th3vz/DIO/refs/heads/main/Bootcamp/Suzano%20-%20Python%20Developer/An%C3%A1lise%20de%20sentimentos%20com%20Language%20Studio%20no%20Azure%20AI/Inputs/img/textoexemplo-2.png)
 
 **Output:**
 
-![Nona imagem de Exemplo da Análise de sentimentos e opiniões gerada](Imagem-3.1.png)
+![Quarta imagem de Exemplo da Análise de sentimentos e opiniões gerada](https://raw.githubusercontent.com/m4th3vz/DIO/refs/heads/main/Bootcamp/Suzano%20-%20Python%20Developer/An%C3%A1lise%20de%20sentimentos%20com%20Language%20Studio%20no%20Azure%20AI/Inputs/img/Imagem-2.1.png)
 
-![Décima imagem de Exemplo da Análise de sentimentos e opiniões gerada](Imagem-3.2.png)
+![Quinta imagem de Exemplo da Análise de sentimentos e opiniões gerada](https://raw.githubusercontent.com/m4th3vz/DIO/refs/heads/main/Bootcamp/Suzano%20-%20Python%20Developer/An%C3%A1lise%20de%20sentimentos%20com%20Language%20Studio%20no%20Azure%20AI/Inputs/img/Imagem-2.2.png)
 
-![Décima primeira imagem de Exemplo da Análise de sentimentos e opiniões gerada](Imagem-3.3.png)
+![Sexta imagem de Exemplo da Análise de sentimentos e opiniões gerada](https://raw.githubusercontent.com/m4th3vz/DIO/refs/heads/main/Bootcamp/Suzano%20-%20Python%20Developer/An%C3%A1lise%20de%20sentimentos%20com%20Language%20Studio%20no%20Azure%20AI/Inputs/img/Imagem-2.3.png)
 
-![Décima segunda imagem de Exemplo da Análise de sentimentos e opiniões gerada](Imagem-3.4.png)
+![Sétima imagem de Exemplo da Análise de sentimentos e opiniões gerada](https://raw.githubusercontent.com/m4th3vz/DIO/refs/heads/main/Bootcamp/Suzano%20-%20Python%20Developer/An%C3%A1lise%20de%20sentimentos%20com%20Language%20Studio%20no%20Azure%20AI/Inputs/img/Imagem-2.4.png)
 
-![Décima terceira imagem de Exemplo da Análise de sentimentos e opiniões gerada](Imagem-3.5.png)
+![Oitava imagem de Exemplo da Análise de sentimentos e opiniões gerada](https://raw.githubusercontent.com/m4th3vz/DIO/refs/heads/main/Bootcamp/Suzano%20-%20Python%20Developer/An%C3%A1lise%20de%20sentimentos%20com%20Language%20Studio%20no%20Azure%20AI/Inputs/img/Imagem-2.5.png)
 
-![Décima quarta imagem de Exemplo da Análise de sentimentos e opiniões gerada](Imagem-3.6.png)
+## **Análise do terceiro texto:**
 
-![Décima quinta imagem de Exemplo da Análise de sentimentos e opiniões gerada](Imagem-3.7.png)
+**Input:**
+
+![Imagem de Exemplo do texto da Análise de sentimentos e opiniões](https://raw.githubusercontent.com/m4th3vz/DIO/refs/heads/main/Bootcamp/Suzano%20-%20Python%20Developer/An%C3%A1lise%20de%20sentimentos%20com%20Language%20Studio%20no%20Azure%20AI/Inputs/img/textoexemplo-3.png)
+
+**Output:**
+
+![Nona imagem de Exemplo da Análise de sentimentos e opiniões gerada](https://raw.githubusercontent.com/m4th3vz/DIO/refs/heads/main/Bootcamp/Suzano%20-%20Python%20Developer/An%C3%A1lise%20de%20sentimentos%20com%20Language%20Studio%20no%20Azure%20AI/Inputs/img/Imagem-3.1.png)
+
+![Décima imagem de Exemplo da Análise de sentimentos e opiniões gerada](https://raw.githubusercontent.com/m4th3vz/DIO/refs/heads/main/Bootcamp/Suzano%20-%20Python%20Developer/An%C3%A1lise%20de%20sentimentos%20com%20Language%20Studio%20no%20Azure%20AI/Inputs/img/Imagem-3.2.png)
+
+![Décima primeira imagem de Exemplo da Análise de sentimentos e opiniões gerada](https://raw.githubusercontent.com/m4th3vz/DIO/refs/heads/main/Bootcamp/Suzano%20-%20Python%20Developer/An%C3%A1lise%20de%20sentimentos%20com%20Language%20Studio%20no%20Azure%20AI/Inputs/img/Imagem-3.3.png)
+
+![Décima segunda imagem de Exemplo da Análise de sentimentos e opiniões gerada](https://raw.githubusercontent.com/m4th3vz/DIO/refs/heads/main/Bootcamp/Suzano%20-%20Python%20Developer/An%C3%A1lise%20de%20sentimentos%20com%20Language%20Studio%20no%20Azure%20AI/Inputs/img/Imagem-3.4.png)
+
+![Décima terceira imagem de Exemplo da Análise de sentimentos e opiniões gerada](https://raw.githubusercontent.com/m4th3vz/DIO/refs/heads/main/Bootcamp/Suzano%20-%20Python%20Developer/An%C3%A1lise%20de%20sentimentos%20com%20Language%20Studio%20no%20Azure%20AI/Inputs/img/Imagem-3.5.png)
+
+![Décima quarta imagem de Exemplo da Análise de sentimentos e opiniões gerada](https://raw.githubusercontent.com/m4th3vz/DIO/refs/heads/main/Bootcamp/Suzano%20-%20Python%20Developer/An%C3%A1lise%20de%20sentimentos%20com%20Language%20Studio%20no%20Azure%20AI/Inputs/img/Imagem-3.6.png)
+
+![Décima quinta imagem de Exemplo da Análise de sentimentos e opiniões gerada](https://raw.githubusercontent.com/m4th3vz/DIO/refs/heads/main/Bootcamp/Suzano%20-%20Python%20Developer/An%C3%A1lise%20de%20sentimentos%20com%20Language%20Studio%20no%20Azure%20AI/Inputs/img/Imagem-3.7.png)
 
 ## Referências
 
- - [DIO - Microsoft Azure AI Fundamentals](https://web.dio.me/track/a088cda7-a37f-451a-b392-46fa7e6ddc55)
+ - [DIO - Suzano - Python Developer](https://web.dio.me/track/suzano-python-developer)
  - [Explore Speech Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/09-speech.html)
  - [Analyze text with Language Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html)

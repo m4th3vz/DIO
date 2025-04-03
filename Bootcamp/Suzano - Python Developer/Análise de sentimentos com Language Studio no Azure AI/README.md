@@ -84,6 +84,20 @@ Neste exercício, utilizei o Language Studio para criar um novo recurso de idiom
 
 ![Décima quinta imagem de Exemplo da Análise de sentimentos e opiniões gerada](https://raw.githubusercontent.com/m4th3vz/DIO/refs/heads/main/Bootcamp/Suzano%20-%20Python%20Developer/An%C3%A1lise%20de%20sentimentos%20com%20Language%20Studio%20no%20Azure%20AI/Inputs/img/Imagem-3.7.png)
 
+## **Conclusão**
+
+### Azure AI Speech
+
+O Azure AI Speech é um serviço que oferece funcionalidades avançadas de conversão de fala em texto e de texto em fala. Com ele, é possível transcrever áudios em texto com alta precisão, o que é ideal para aplicações como legendagem de vídeos, transcrição de reuniões e assistentes virtuais. Além disso, o serviço permite a síntese de fala a partir de textos, criando vozes naturais que podem ser utilizadas em leitores de tela ou sistemas de navegação por voz. Uma funcionalidade interessante é a tradução de fala em tempo real, possibilitando a comunicação entre pessoas que falam idiomas diferentes. O Azure AI Speech também oferece reconhecimento de intenção, permitindo que aplicativos compreendam comandos de voz e ajam de acordo.
+
+### Azure AI Language
+
+Já o Azure AI Language é focado no processamento de linguagem natural e oferece diversas ferramentas para análise de texto. Com ele, podemos detectar o idioma de um texto, analisar o sentimento expresso (positivo, negativo ou neutro), extrair frases-chave e reconhecer entidades nomeadas, como nomes de pessoas, organizações e locais. Essas funcionalidades são extremamente úteis para empresas que desejam monitorar a opinião dos clientes em redes sociais, por exemplo, ou para automatizar a classificação de documentos. O serviço também permite a personalização de modelos de IA para atender a necessidades específicas, como identificar intenções em textos ou responder perguntas de forma mais precisa.
+
+Ambos os serviços são integrados ao ecossistema Azure, o que facilita sua implementação em aplicações existentes. Além disso, a Microsoft oferece recursos como o Speech Studio e o Language Studio, que permitem testar e ajustar as funcionalidades de fala e linguagem de forma intuitiva, sem a necessidade de escrever código.
+
+Explorar o Azure AI Speech e o Azure AI Language tem sido uma experiência enriquecedora, abrindo um leque de possibilidades para o desenvolvimento de aplicações inteligentes que interagem de forma mais natural e eficiente com os usuários.
+
 ## Referências
 
  - [DIO - Suzano - Python Developer](https://web.dio.me/track/suzano-python-developer)
